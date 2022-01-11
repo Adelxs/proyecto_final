@@ -58,6 +58,7 @@ Main {
     width: 400px;
     height: 500px;
     color: white;
+    border-radius: 20px;
     
 }
 
@@ -75,6 +76,14 @@ Main {
     width: 300px;
     margin: 20px;
 }
+
+.submit {
+    width: 100px;
+    height: 30px;
+    border-radius: 3px;
+
+}
+
 
 
 footer {

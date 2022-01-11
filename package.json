@@ -1,0 +1,20 @@
+{
+  "name": "tercera_entrega",
+  "version": "1.0.0",
+  "description": "Esta es la tercera entrega del proyecto final con mas paginas agregadas con respecto a la anterior entrega ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C"
+  },
+  "author": "Adel",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "frameworks": "bootstrap 4"
+    
+  }
+}
